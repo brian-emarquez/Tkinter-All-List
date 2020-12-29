@@ -1,5 +1,5 @@
 
-<h2 align="center">All List 🐍 Tkinter</h2>
+<h2 align="center">All List 🦄 Tkinter</h2>
 
 <p align="center">
   
